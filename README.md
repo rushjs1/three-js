@@ -9,10 +9,3 @@ Haunted Kitchen
 
 https://powerful-river-53047.herokuapp.com/
 
-
-haunted House 
-
-https://secret-sands-15708.herokuapp.com/
-
-
-
